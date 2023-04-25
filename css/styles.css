@@ -174,12 +174,6 @@ button {
 
 }
 
-.header-container {
-
-  display: flex;
-  align-items: center;
-
-}
 
 .header-nav {
 
@@ -471,9 +465,11 @@ button {
 
 }
 
+
+
 .feautures-item {
 
-  flex-basis: calc((100%-24px) / 3);
+  flex-basis: calc((100%-72px) / 4);
 
 }
 
